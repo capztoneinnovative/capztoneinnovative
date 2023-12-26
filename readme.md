@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About Us</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019 ...<br></p>
-
-###
-
 <h2 align="left">we code with</h2>
 
 ###
